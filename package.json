@@ -1,0 +1,23 @@
+{
+	"name": "light",
+	"version": "1.0.0",
+	"main": "sendSchedule.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"axios": "^1.13.2",
+		"dotenv": "^17.2.3",
+		"form-data": "^4.0.5",
+		"input": "^1.0.1",
+		"node-cron": "^4.2.1",
+		"node-fetch": "^3.3.2",
+		"telegraf": "^4.16.3",
+		"telegram": "^2.26.22"
+	}
+}

@@ -1,0 +1,5 @@
+.env
+session_telethon_js.txt
+last_message_id.txt
+node_modules/
+dtek_*.jpg
